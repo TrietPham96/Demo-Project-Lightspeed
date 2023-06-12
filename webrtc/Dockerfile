@@ -13,4 +13,4 @@ EXPOSE 8080
 
 #CMD ["lightspeed-webrtc --addr=XXX.XXX.XXX.XXX", "run"]
 # defaults to localhost:8080, then up to docker compose to bind ports
-CMD ["lightspeed-webrtc", "--addr=localhost"]
+CMD ["lightspeed-webrtc", "--addr=209.97.170.161"]
